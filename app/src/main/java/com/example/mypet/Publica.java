@@ -15,6 +15,7 @@ public class Publica extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_publica);
     }
+
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         getMenuInflater().inflate(R.menu.menu,menu);
